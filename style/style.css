@@ -1,0 +1,16 @@
+/* STYLE CSS */
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Fondamento:ital@1&display=swap');
+body {
+	font-family: 'Fondamento', cursive;
+}
+
+.top-title {
+	width: 100%;
+	text-align: center;
+}
+.responsive {
+  width: 47%;
+  height: auto;
+}
